@@ -1,0 +1,175 @@
+1	Plaza Vea                     	1	Buenos Aires                  	9693	9693 - P Vea Villa Urquiza.			N
+1	Plaza Vea                     	1	Buenos Aires                  	9694	9694 - P Vea JB Justo.			N
+1	Plaza Vea                     	1	Buenos Aires                  	9695	695 - P Vea Acoyte.	0.0	0.0	N
+1	Plaza Vea                     	1	Buenos Aires                  	9699	699 - P Vea Rivadavia.	0.0	0.0	N
+1	Plaza Vea                     	1	Buenos Aires                  	9889	889 - Plaza Vea Carpa de liqui			N
+2	Disco                         	1	Buenos Aires                  	247	916 - SM 916 Gorostiaga	-34.565258999999998	-58.436582999999999	N
+2	Disco                         	1	Buenos Aires                  	257	61 - Tortuguitas	-34.446043000000003	-58.745097999999999	N
+2	Disco                         	1	Buenos Aires                  	285	953 - Venado Tuerto			N
+2	Disco                         	1	Buenos Aires                  	740	740 - Canning	-34.853220999999998	-58.502246999999997	N
+2	Disco                         	1	Buenos Aires                  	961	961 - Av. Santa F‚			N
+2	Disco                         	1	Buenos Aires                  	1190	6190 - BT SAF (Importaciones).			S
+2	Disco                         	1	Buenos Aires                  	1914	3914 - Interno SLL BsAs 217.			S
+2	Disco                         	1	Buenos Aires                  	9001	1 - San Isidro.	-34.471530899999998	-58.515350099999999	N
+2	Disco                         	1	Buenos Aires                  	9002	2 - Talcahuano.	-34.5962563	-58.385700900000003	N
+2	Disco                         	1	Buenos Aires                  	9003	3 - Camacua.	-34.627893	-58.458295	N
+2	Disco                         	1	Buenos Aires                  	9004	4 - Vicente L¢pez.	-34.520825000000002	-58.485332	N
+2	Disco                         	1	Buenos Aires                  	9007	7 - Pte. Per¢n.	0.0	0.0	N
+2	Disco                         	1	Buenos Aires                  	9009	9 - Lomas de Zamora.	-34.764091000000001	-58.398620999999999	N
+2	Disco                         	1	Buenos Aires                  	9012	12 - Sucre.	-34.560842000000001	-58.449840999999999	N
+2	Disco                         	1	Buenos Aires                  	9014	14 - Las Heras..	-34.581690999999999	-58.414434999999997	N
+2	Disco                         	1	Buenos Aires                  	9015	15 - Salguero.	-34.580100999999999	-58.408191000000002	N
+2	Disco                         	1	Buenos Aires                  	9016	16 - Paraguay.	-34.586089999999999	-58.422310000000003	N
+2	Disco                         	1	Buenos Aires                  	9017	17 - Virrey del Pino.	-34.566744	-58.453445000000002	N
+2	Disco                         	1	Buenos Aires                  	9018	18 - Quintana.	-34.589374999999997	-58.388536000000002	N
+2	Disco                         	1	Buenos Aires                  	9022	22 - Santa Fe.	-34.590488000000001	-58.408383999999998	N
+2	Disco                         	1	Buenos Aires                  	9023	23 - Alto Palermo.	-34.587060999999999	-58.410916	N
+2	Disco                         	1	Buenos Aires                  	9025	25 - Rodr¡guez Pe¤a.	-34.593032000000001	-58.391347000000003	N
+2	Disco                         	1	Buenos Aires                  	9026	26 - Av. Callao.	-34.608787	-58.392012000000001	N
+2	Disco                         	1	Buenos Aires                  	9030	30 - Rivadavia.	-34.617351999999997	-58.434390999999998	N
+2	Disco                         	1	Buenos Aires                  	9035	35 - Uriburu.	-34.593885	-58.397898099999999	N
+2	Disco                         	1	Buenos Aires                  	9037	37 - Adrogu‚.	-34.798951000000002	-58.404243000000001	N
+2	Disco                         	1	Buenos Aires                  	9038	38 - Arcos.	-34.561708000000003	-58.452373000000001	N
+2	Disco                         	1	Buenos Aires                  	9039	39 - Pe¤a.	-34.585934600000002	-58.405187699999999	N
+2	Disco                         	1	Buenos Aires                  	9042	42 - La Plata I.	-34.934654999999999	-57.975326000000003	N
+2	Disco                         	1	Buenos Aires                  	9045	45 - Gesell Boulevard.	-37.259025000000001	-56.982672000000001	N
+2	Disco                         	1	Buenos Aires                  	9046	46 - Esmeralda.	-34.591519300000002	-58.378118000000001	N
+2	Disco                         	1	Buenos Aires                  	9048	48 - Gasc¢n.	-34.603434999999998	-58.424112999999998	N
+2	Disco                         	1	Buenos Aires                  	9049	49 - Pinamar.	-37.108688999999998	-56.871028000000003	N
+2	Disco                         	1	Buenos Aires                  	9050	50 - Gesell Central.	-37.263549500000003	-56.974520800000001	N
+2	Disco                         	1	Buenos Aires                  	9054	54 - Elcano.	-34.572856999999999	-58.459282000000002	N
+2	Disco                         	1	Buenos Aires                  	9055	55 - J. B. Justo..	-38.024498000000001	-57.563766999999999	N
+2	Disco                         	1	Buenos Aires                  	9057	57 - San Luis.	-38.001616499999997	-57.5499759	N
+2	Disco                         	1	Buenos Aires                  	9058	58 - Constituci¢n.	-37.960017999999998	-57.564475999999999	N
+2	Disco                         	1	Buenos Aires                  	9059	59 - Alberti.	-37.998258999999997	-57.545420999999997	N
+2	Disco                         	1	Buenos Aires                  	9062	62 - La Plata III.	-34.915543999999997	-57.942746	N
+2	Disco                         	1	Buenos Aires                  	9107	107 - Na¢n.	-34.569783000000001	-58.470675999999997	N
+2	Disco                         	1	Buenos Aires                  	9111	111 - City Bell.	-34.786031000000001	-58.252974000000002	N
+2	Disco                         	1	Buenos Aires                  	9112	112 - Banfield.	-34.738191999999998	-58.408966999999997	N
+2	Disco                         	1	Buenos Aires                  	9137	137 - Montevideo.	-34.596316999999999	-58.389805000000003	N
+2	Disco                         	1	Buenos Aires                  	9151	151 - Mataderos.	-34.654767100000001	-58.506149999999998	N
+2	Disco                         	1	Buenos Aires                  	9152	152 - Ramos Mej¡a.	-34.6417334	-58.571030700000001	N
+2	Disco                         	1	Buenos Aires                  	9154	154 - Mor¢n II.	-34.6539	-58.620699999999999	N
+2	Disco                         	1	Buenos Aires                  	9156	156 - Castelar Norte.	-34.649273000000001	-58.654032000000001	N
+2	Disco                         	1	Buenos Aires                  	9161	161 - Moreno II.	-34.634366999999997	-58.791778000000001	N
+2	Disco                         	1	Buenos Aires                  	9163	163 - Bella Vista.	-34.561453499999999	-58.680218099999998	N
+2	Disco                         	1	Buenos Aires                  	9205	205 - Carniceria Central.	0.0	0.0	N
+2	Disco                         	1	Buenos Aires                  	9217	217 - Centro Distribuci¢n Ezei	-34.807941999999997	-58.508361999999998	S
+2	Disco                         	1	Buenos Aires                  	9231	231 - Rawson y Alvear.	-38.014727000000001	-57.539133999999997	N
+2	Disco                         	1	Buenos Aires                  	9235	235 - La Horqueta.	-34.4657445	-58.574909499999997	N
+2	Disco                         	1	Buenos Aires                  	9237	237 - Beir¢.	-34.600332799999997	-58.502862	N
+2	Disco                         	1	Buenos Aires                  	9247	247 - Jos‚ Mar¡a Moreno.	-34.622461600000001	-58.4348107	N
+2	Disco                         	1	Buenos Aires                  	9248	248 - San Bernardo.	-36.688037000000001	-56.683531000000002	N
+2	Disco                         	1	Buenos Aires                  	9630	630 - Entre R¡os y Belgrano.	-34.613386900000002	-58.391730799999998	N
+2	Disco                         	1	Buenos Aires                  	9639	639 - Pinocho VII.	0.0	0.0	N
+2	Disco                         	1	Buenos Aires                  	9701	701 - Directorio.	-34.629587999999998	-58.445295000000002	N
+2	Disco                         	1	Buenos Aires                  	9977	977 - SM 977 Cuba.	-34.564534999999999	-58.451563999999998	N
+4	Vea                           	1	Buenos Aires                  	242	912 - Junin II	-34.583210000000001	-60.954189999999997	N
+4	Vea                           	1	Buenos Aires                  	248	917 - Mataderos II			N
+4	Vea                           	1	Buenos Aires                  	249	944 - Tapiales	-34.691167999999998	-58.498984999999998	N
+4	Vea                           	1	Buenos Aires                  	250	168 - Lope de Vega			N
+4	Vea                           	1	Buenos Aires                  	252	983 - Miramar	0.0	0.0	N
+4	Vea                           	1	Buenos Aires                  	255	995 - Alvarez Jonte			N
+4	Vea                           	1	Buenos Aires                  	263	8 - Chivilcoy	-34.891834199999998	-60.020600000000002	N
+4	Vea                           	1	Buenos Aires                  	266	51 - NECOCHEA	-38.561925000000002	-58.729801999999999	N
+4	Vea                           	1	Buenos Aires                  	270	150 - Padua	-34.665726999999997	-58.696967000000001	N
+4	Vea                           	1	Buenos Aires                  	277	52 - SAN CLEMENTE	-36.360308000000003	-56.722051	N
+4	Vea                           	1	Buenos Aires                  	430	430 - Funes	-32.946868000000002	-60.636206000000001	N
+4	Vea                           	1	Buenos Aires                  	631	631 - SAN PEDRO	-33.677925999999999	-59.668511000000002	N
+4	Vea                           	1	Buenos Aires                  	668	668 - Rojas	-34.403227000000001	-60.733159000000001	N
+4	Vea                           	1	Buenos Aires                  	669	669 - Pergamino	-33.899130999999997	-60.576621000000003	N
+4	Vea                           	1	Buenos Aires                  	674	674 - Resistencia	0.0	0.0	N
+4	Vea                           	1	Buenos Aires                  	677	677 - Saladillo	-35.635604000000001	-59.776488999999998	N
+4	Vea                           	1	Buenos Aires                  	685	685 - Chajari	-30.739331	-57.966513999999997	N
+4	Vea                           	1	Buenos Aires                  	686	686 - Gualeguaych£	-33.010390999999998	-58.526404999999997	N
+4	Vea                           	1	Buenos Aires                  	688	688 - Goya II	-29.141976	-59.265382000000002	N
+4	Vea                           	1	Buenos Aires                  	691	691 - Paso de los Libres	-29.715194	-57.088844999999999	N
+4	Vea                           	1	Buenos Aires                  	707	707 - Don Torcuato	-34.493400000000001	-58.627173999999997	N
+4	Vea                           	1	Buenos Aires                  	711	711 - Tandil	-37.327035000000002	-59.132930999999999	N
+4	Vea                           	1	Buenos Aires                  	741	741 - Barracas	-34.637957	-58.377636000000003	N
+4	Vea                           	1	Buenos Aires                  	752	752 - Trelew	-43.268799999999999	-65.281627	N
+4	Vea                           	1	Buenos Aires                  	767	767 - Junin	-34.595804999999999	-60.928165	N
+4	Vea                           	1	Buenos Aires                  	854	854 - Concordia	-31.384416999999999	-58.020819000000003	N
+4	Vea                           	1	Buenos Aires                  	6943	943 - Paran 	-31.755794999999999	-60.496476999999999	N
+4	Vea                           	1	Buenos Aires                  	9005	5 - Mansilla.	-34.590859000000002	-58.414864999999999	N
+4	Vea                           	1	Buenos Aires                  	9006	6 - Alberdi.	-34.625104	-58.447308999999997	N
+4	Vea                           	1	Buenos Aires                  	9010	10 - Larrea.	-34.598613999999998	-58.402397999999998	N
+4	Vea                           	1	Buenos Aires                  	9011	11 - Castro Barros.	-34.613838000000001	-58.420485999999997	N
+4	Vea                           	1	Buenos Aires                  	9019	19 - Bulnes.	-34.599373	-58.417696999999997	N
+4	Vea                           	1	Buenos Aires                  	9020	20 - Lan£s.	-34.703164999999998	-58.391990999999997	N
+4	Vea                           	1	Buenos Aires                  	9024	24 - Galer¡a.	-34.593668000000001	-58.404328999999997	N
+4	Vea                           	1	Buenos Aires                  	9031	31 - Remedios de Escalada.	-34.726218000000003	-58.395637999999998	N
+4	Vea                           	1	Buenos Aires                  	9036	36 - La Plata II.	-34.907436500000003	-57.949567000000002	N
+4	Vea                           	1	Buenos Aires                  	9056	56 - Luro y Guido	-37.991866999999999	-57.559325999999999	N
+4	Vea                           	1	Buenos Aires                  	9119	119 - Ar oz.	-34.61495	-58.434477000000001	N
+4	Vea                           	1	Buenos Aires                  	9122	122 - Bah¡a Blanca I			N
+4	Vea                           	1	Buenos Aires                  	9127	127 - Bah¡a Blanca. II.			N
+4	Vea                           	1	Buenos Aires                  	9153	153 - Mor¢n I.	-34.648712600000003	-58.611531100000001	N
+4	Vea                           	1	Buenos Aires                  	9155	155 - Castelar Sur.	-34.655963	-58.651542999999997	N
+4	Vea                           	1	Buenos Aires                  	9157	157 - San Miguel.	-34.568452000000001	-58.742759	N
+4	Vea                           	1	Buenos Aires                  	9158	158 - Merlo I.	-34.666824300000002	-58.727332199999999	N
+4	Vea                           	1	Buenos Aires                  	9159	159 - Merlo II.	-34.672958399999999	-58.723962200000003	N
+4	Vea                           	1	Buenos Aires                  	9160	160 - Moreno I.	-34.643518	-58.789194000000002	N
+4	Vea                           	1	Buenos Aires                  	9162	162 - Luj n.	-34.562531999999997	-59.117522999999998	N
+4	Vea                           	1	Buenos Aires                  	9164	164 - Hurlingham.	-34.602975999999998	-58.635384999999999	N
+4	Vea                           	1	Buenos Aires                  	9165	165 - Mercedes.	-34.653115800000002	-59.432608399999999	N
+4	Vea                           	1	Buenos Aires                  	9234	234 - Caseros.	-34.6101417	-58.561501499999999	N
+4	Vea                           	1	Buenos Aires                  	9240	240 - Boedo.	-34.621736499999997	-58.425463899999997	N
+4	Vea                           	1	Buenos Aires                  	9241	241 - Edison.	-38.046366999999996	-57.553939999999997	N
+4	Vea                           	1	Buenos Aires                  	9633	633 - Pinocho I.			N
+4	Vea                           	1	Buenos Aires                  	9636	636 - Pinocho IV.			N
+4	Vea                           	1	Buenos Aires                  	9638	638 - Pinocho VI.			N
+4	Vea                           	1	Buenos Aires                  	9640	640 - Pinocho VIII.	-34.916730000000001	-57.956336	N
+4	Vea                           	1	Buenos Aires                  	9665	665 - SM Manzanares.	-34.554673999999999	-58.483485999999999	N
+4	Vea                           	1	Buenos Aires                  	9692	692 - Lanus			N
+4	Vea                           	1	Buenos Aires                  	9696	696 - San Juan.			N
+4	Vea                           	1	Buenos Aires                  	9697	697 - Pacheco			N
+4	Vea                           	1	Buenos Aires                  	9698	698 - Monte Grande			N
+4	Vea                           	1	Buenos Aires                  	9700	700 - C¢rdoba			N
+4	Vea                           	1	Buenos Aires                  	9702	702 - Lobos.	-35.185980000000001	-59.097954999999999	N
+4	Vea                           	1	Buenos Aires                  	9703	703 - Ca¤uelas.	-35.050041999999998	-58.756238000000003	N
+4	Vea                           	1	Buenos Aires                  	9704	704 - SM 704 Tres Arroyos.	-38.377394000000002	-60.272848000000003	N
+4	Vea                           	1	Buenos Aires                  	9706	706 - Puerto Madryn.	-42.768281000000002	-65.037971999999996	N
+4	Vea                           	1	Buenos Aires                  	9942	942 - PV Independencia.	-38.012360000000001	-57.565787999999998	N
+4	Vea                           	1	Buenos Aires                  	9973	973 - Av. San Mart¡n 6795			N
+9	Jumbo                         	1	Buenos Aires                  	305	305 - DEPOSITO CBN GROUP	0.0	0.0	S
+9	Jumbo                         	1	Buenos Aires                  	5034	5034 - Jumbo Quilmes II	-34.728113	-58.248972999999999	N
+9	Jumbo                         	1	Buenos Aires                  	5201	5201 - Jumbo Escalada	-34.674546999999997	-58.460833999999998	N
+9	Jumbo                         	1	Buenos Aires                  	5202	5202 - Jumbo Mart¡nez	-34.508766999999999	-58.521726999999998	N
+9	Jumbo                         	1	Buenos Aires                  	5204	5204 - Jumbo Lomas	-34.792731000000003	-58.414738999999997	N
+9	Jumbo                         	1	Buenos Aires                  	5205	5205 - Jumbo San Mart¡n	-34.565294999999999	-58.554622000000002	N
+9	Jumbo                         	1	Buenos Aires                  	5206	5206 - Jumbo Palermo	-34.575082999999999	-58.425210999999997	N
+9	Jumbo                         	1	Buenos Aires                  	5207	5207 - Jumbo Quilmes	-34.759718999999997	-58.278782999999997	N
+9	Jumbo                         	1	Buenos Aires                  	5208	5208 - Jumbo Mor¢n	-34.701082999999997	-58.647551999999997	N
+9	Jumbo                         	1	Buenos Aires                  	5211	5211 - Jumbo Pilar	-34.446786000000003	-58.870454000000002	N
+9	Jumbo                         	1	Buenos Aires                  	5213	5213 - Jumbo Madero Harbour	-34.621431000000001	-58.360854000000003	N
+9	Jumbo                         	1	Buenos Aires                  	5214	5214 - Jumbo Escobar	-34.355837000000001	-58.797711999999997	N
+9	Jumbo                         	1	Buenos Aires                  	5218	5218 - Jumbo Rosario	-32.909117999999999	-60.683433999999998	N
+9	Jumbo                         	1	Buenos Aires                  	5227	5226 - Jumbo Tucum n			N
+9	Jumbo                         	1	Buenos Aires                  	5231	5231 - Jumbo Almagro	-34.599815	-58.429112000000003	N
+9	Jumbo                         	1	Buenos Aires                  	5259	5259 - Jumbo Tronador	-34.583457000000003	-58.464818000000001	N
+9	Jumbo                         	1	Buenos Aires                  	5260	5260 - Jumbo Acoyte	-34.610675999999998	-58.439326000000001	N
+9	Jumbo                         	1	Buenos Aires                  	5263	5263 - Jumbo Juan B. Justo	-34.609828999999998	-58.465505	N
+9	Jumbo                         	1	Buenos Aires                  	5275	5275 - Jumbo La Palmera			N
+9	Jumbo                         	1	Buenos Aires                  	5276	5276 - Jumbo Arenales	0.0	0.0	N
+9	Jumbo                         	1	Buenos Aires                  	5277	5277 - Jumbo-Comodoro	-45.872649000000003	-67.496036000000004	N
+9	Jumbo                         	1	Buenos Aires                  	5299	5299 - Dep¢sito Tortuguitas	0.0	0.0	S
+9	Jumbo                         	1	Buenos Aires                  	5300	5300 - CD Congelados	0.0	0.0	S
+9	Jumbo                         	1	Buenos Aires                  	5459	5459 - Estacionamiento Tronado			N
+9	Jumbo                         	1	Buenos Aires                  	5460	5460 - Estacionamiento Acoyte			N
+9	Jumbo                         	1	Buenos Aires                  	5626	5626 - Jumbo Pacheco Novo	-34.453186000000002	-58.630924	N
+9	Jumbo                         	1	Buenos Aires                  	5961	5961 - Jumbo Av. Santa F‚	-34.577317000000001	-58.428885999999999	N
+9	Jumbo                         	1	Buenos Aires                  	9121	121 - Jumbo Las Heras			N
+9	Jumbo                         	1	Buenos Aires                  	9138	138 - Jumbo Nordelta			N
+9	Jumbo                         	1	Buenos Aires                  	9628	628 - Jumbo San Fernando	-34.446702500000001	-58.545037200000003	N
+9	Jumbo                         	1	Buenos Aires                  	9662	662 - Jumbo Paseo del Pilar			N
+11	Rincon Jumbo                  	1	Buenos Aires                  	8201	8201 - Rinc¢n Parque Brown			N
+11	Rincon Jumbo                  	1	Buenos Aires                  	8227	8227 - Rinc¢n Tucum n			N
+11	Rincon Jumbo                  	1	Buenos Aires                  	8262	8262 - Rinc¢n Unicenter II	0.0	0.0	N
+11	Rincon Jumbo                  	1	Buenos Aires                  	8302	8202 - Rinc¢n Unicenter	0.0	0.0	N
+11	Rincon Jumbo                  	1	Buenos Aires                  	8303	8203 - Rinc¢n San Isidro			N
+11	Rincon Jumbo                  	1	Buenos Aires                  	8306	8206 - Rinc¢n Palermo			N
+11	Rincon Jumbo                  	1	Buenos Aires                  	8311	8211 - Rinc¢n Pilar	0.0	0.0	N
+11	Rincon Jumbo                  	1	Buenos Aires                  	8314	8214 - Rinc¢n Escobar			N
+11	Rincon Jumbo                  	1	Buenos Aires                  	8318	8218 - Rinc¢n Rosario			N
+11	Rincon Jumbo                  	1	Buenos Aires                  	8331	8231 - Rinc¢n Almagro			N
